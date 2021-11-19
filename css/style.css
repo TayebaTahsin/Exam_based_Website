@@ -1,0 +1,91 @@
+.logo-image ul{
+	margin-left: 745px;
+}
+.logo-image ul li{
+	margin-right: 4px;
+}
+.menu-bar{
+	border-bottom: 1px solid #1c1b1b30;
+    padding-bottom: 20px;
+}
+.menu li a{
+	color: #737373;
+    font-weight: 800;
+}
+.menu li a:hover{
+	color: #2dcc70;
+}
+.banner{
+	background-image: url(../images/bannerbg.jpg);
+	height: 540px;
+}
+.banner-content img{
+	margin-top: 150px;
+}
+.banner-content p{
+	color: #36303094;
+    font-size: 14px;
+    margin-left: 324px;
+    margin-right: 251px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.btn-custom{
+	background: #2dcc70;
+    padding: 10px 22px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+.banner-content .btn-custom{
+	    margin-left: 610px;
+}
+.service-section{
+	padding-top: 310px;
+	background: #efe6e6a6;
+	padding-bottom: 50px;
+}
+.service p{
+
+    color: #868080;
+}
+.service h1{
+	color: #00000099;
+    font-weight: 700;
+    margin-bottom: 45px;
+}
+.service-image img{
+	    margin-left: 140px;
+}
+.sign-up-section{
+	background: #000000d1;
+    color: white;
+    padding: 55px;
+}
+.sign-up-section .btn{
+	margin-left: 236px;
+}
+.footer{
+	    padding: 20px;
+}
+.footer h5{
+	font-size: 12px;
+    color: #302e2e9e;
+    margin-left: 55px;
+   
+}
+.footer h6{
+	font-size: 12px;
+    color: #302e2e9e;
+    margin-left: 235px;
+    
+}
+
+.logo-image a{
+	position: relative;
+}
+.logo-image a .hand{
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+}
